@@ -2,3 +2,7 @@ __pycache__
 .env
 temp_scan_31.wav
 yuki_architecture_and_plan.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
